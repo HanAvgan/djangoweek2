@@ -1,1 +1,0 @@
-# djangoweek2
